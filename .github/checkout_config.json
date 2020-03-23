@@ -1,0 +1,5 @@
+{
+  "FreeRTOS-Kernel": {
+    "checkoutScript": "checkout_script.py",
+  }
+}
